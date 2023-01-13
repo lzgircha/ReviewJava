@@ -18,6 +18,9 @@ public class SwitchStatement {
                 break;
             case 2010:
                 System.out.println("Winner is Spain");
+                break;
+            default:
+                System.out.println("Winner is unknown");
         }
     }
 }
